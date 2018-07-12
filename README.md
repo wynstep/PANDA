@@ -54,7 +54,7 @@ Curated cells can be browsed through the web resource or downloaded as a comma-s
 ## How to contribute to PANDA project
 
 We support **shared and social science**. 
-PANDA is entirely open-source, this means the entire scientific community can contribute to its growth.
+PANDA is entirely open-source, this means the scientific community can contribute to its growth.
 
 If you want to report errors, make suggestions or share your previous knowledge with us, you are very welcome! Feel free to [contact us](mailto:s.pirro@qmul.ac.uk)
 
