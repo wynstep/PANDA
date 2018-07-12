@@ -1,4 +1,4 @@
-## PANDA, the *P*opulation *An*alysis *Da*tabase
+## PANDA, the **P**opulation **An**alysis **Da**tabase
 
 is the first manually-curated database which aims at capturing the expression profiles of selected markers in primary cells by integrating multiple layers of information in a user-friendly web portal. The curation process is conducted by experts that retrieve and interpret expression data from the literature.
 
