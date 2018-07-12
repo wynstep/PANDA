@@ -1,9 +1,6 @@
-# PANDA
-PANDA, the Population Analysis Database
+## PANDA, the *P*opulation *An*alysis *Da*tabase
 
-## Overview
-
-PANDA (**P**opulation **An**alysis **Da**tabase) is the first manually-curated database which aims at capturing the expression profiles of selected markers in primary cells by integrating multiple layers of information in a user-friendly web portal. The curation process is conducted by experts that retrieve and interpret expression data from the literature.
+is the first manually-curated database which aims at capturing the expression profiles of selected markers in primary cells by integrating multiple layers of information in a user-friendly web portal. The curation process is conducted by experts that retrieve and interpret expression data from the literature.
 
 PANDA mainly focuses the curation effort on the immune system and on the cell populations participating in skeletal muscle regeneration. The current release contains **79** different cell types in *H. sapiens*,*M. musculus*, *R. norvegicus* and *G. gallus* but aims at increasing the amount of curated data, extending curations to other tissues, organs and organisms.
 
